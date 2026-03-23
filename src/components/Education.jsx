@@ -16,7 +16,7 @@ const educationData = [
     ],
   },
   {
-    institution: 'Indian Institute of Technology',
+    institution: 'Indian Institute of Technology, Madras',
     degree: 'Bachelor of Science - Data Science and Applications',
     location: 'Tamil Nadu, India',
     period: "Since Aug '23",

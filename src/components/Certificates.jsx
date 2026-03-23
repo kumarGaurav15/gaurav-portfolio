@@ -25,7 +25,7 @@ const certificatesData = [
   },
   {
     name: 'Advance certificate in ML and Data Science',
-    issuer: 'Internshala',
+    issuer: 'IIT Madras',
     date: "Oct '25",
     category: 'Analytics',
     link: 'https://drive.google.com/file/d/16Xn4z53huJrDnJZND0m4Xv5IXFpohieP/view',
